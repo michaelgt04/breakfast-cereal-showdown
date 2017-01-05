@@ -25,3 +25,6 @@ This is going to be a very basic user model with a require first and last name.
 
 ## Create an association
 Create a model that will allow users to leave a review of many cereals.
+
+## Pry Practice
+Practice making records and calling the associations in a Pry session.
