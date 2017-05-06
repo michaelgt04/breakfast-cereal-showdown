@@ -1,5 +1,10 @@
 # Breakfast Cereal Showdown
 
+## Description
+This is the system check review clinic for our `ActiveRecord` week. If you are
+able to complete this exercise, you should be in good shape for the system
+check tomorrow! Good luck and happy reviewing!
+
 ## Key Topics for the Week
 The key things to make sure you have a good understanding of are as follows:
 * ActiveRecord Basics
